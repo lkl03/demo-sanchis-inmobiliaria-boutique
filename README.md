@@ -1,2 +1,7 @@
-# demo-sanchis-inmobiliaria-boutique
-Demo web para SANCHIS INMOBILIARIA BOUTIQUE — diseñada por eterlab.
+# SANCHIS INMOBILIARIA BOUTIQUE
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
